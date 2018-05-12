@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35601'
     url: http://www.gutenberg.org/2009/agents/35601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31990#A-History-of-the-Town-of-Fairfax
 gutenberg_issued: '2010-04-14'
 gutenberg_type: Text
 identifiers:
