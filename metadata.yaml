@@ -1,0 +1,25 @@
+_repo: A-History-of-the-Town-of-Fairfax_31990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rust, Jeanne Johnson
+    gutenberg_agent_id: '35601'
+    url: http://www.gutenberg.org/2009/agents/35601
+description: ''
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31990'
+  lccn: '61011281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairfax (Va.) -- History'
+- !lcc 'F206'
+title: A History of the Town of Fairfax
+url: http://www.gutenberg.org/ebooks/31990
